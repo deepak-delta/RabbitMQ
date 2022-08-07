@@ -1,0 +1,23 @@
+{
+  "name": "rabbitmq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepak-delta/RabbitMQ.git"
+  },
+  "keywords": [],
+  "author": "Deepak D Krishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepak-delta/RabbitMQ/issues"
+  },
+  "homepage": "https://github.com/deepak-delta/RabbitMQ#readme",
+  "dependencies": {
+    "amqplib": "^0.10.1"
+  }
+}
